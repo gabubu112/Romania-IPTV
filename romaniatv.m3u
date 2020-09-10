@@ -1,0 +1,37 @@
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/440px-Logo_Pro_TV_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV RO
+https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antena_1_hd.jpg/250px-Antena_1_hd.jpg" tvg-country="RO" tvg-url="" group-title="General",Antena 1 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/8e/60/d7/8e60d7e728f7d98795e900006a83c41a.png" tvg-country="RO" tvg-url="" group-title="General",Kanal D RO
+http://stream1.kanald.ro/iphone/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima TV RO" tvg-language="Romanian" tvg-logo="https://www.primatv.ro/media/cache/gallery_big_image/uploads/media/campaign_gallery_image/0001/01/c43f4bb096905b897d333022565a252da3a93430.jpeg" tvg-country="RO" tvg-url="" group-title="General",Prima TV RO
+
+#EXTINF:-1 tvg-id="" tvg-name="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/3f/TVR_1_%282010-.n.v.%29.png/revision/latest?cb=20180622131700" tvg-country="RO" tvg-url="" group-title="General",TVR 1 RO
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR 2 RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/TVR2_logo.png/revision/latest/scale-to-width-down/340?cb=20170417130805" tvg-country="RO" tvg-url="" group-title="General",TVR 2 RO
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National TV RO" tvg-language="Romanian" tvg-logo="https://stvron.com/canale/512/national-tv.png" tvg-country="RO" tvg-url="" group-title="General",National TV RO
+
+#EXTINF:-1 tvg-id="" tvg-name="N24 Plus RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Național_24_Plus.png" tvg-country="RO" tvg-url="" group-title="General",N24 Plus RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Antena Stars RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" tvg-country="RO" tvg-url="" group-title="General",Antena Stars RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/1280px-Logo_Telekom_Sport_1_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Telekom Sport 1 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 2 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Telekom_Sport_2_%282017%29.svg/1280px-Logo_Telekom_Sport_2_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Telekom Sport 2 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 3 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Telekom_Sport_3_%282017%29.svg/1280px-Logo_Telekom_Sport_3_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Telekom Sport 3 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 4 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Telekom_Sport_4_%282017%29.svg" tvg-country="RO" tvg-url="" group-title="Sport",Telekom Sport 4 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Eurosport 1 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 RO" tvg-language="Romanian" tvg-logo="https://www.mesmarques-enbourse.com/wp-content/themes/mes-marques-en-bourse/logos/600x600/40000000215.png" tvg-country="RO" tvg-url="" group-title="Sport",Eurosport 2 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Look Sport RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LookSport_%282018%29.svg/1280px-Logo_LookSport_%282018%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Look Sport RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Look Plus RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_LookPlus_HD_%282018%29.svg/1280px-Logo_LookPlus_HD_%282018%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Look Plus RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro X RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Pro_X_%282017%29.svg/1280px-Logo_Pro_X_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Pro X RO
+https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="Digi 24 RO" tvg-language="Romanian" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3RpcmlfZGlnaTI0LnBuZyZoYXNo/PTRkNmE1OTI4Njg1ZGI0ZjIwYTE3OTYzNjFhNTQzZmNh.png" tvg-country="RO" tvg-url="" group-title="Stiri",Digi 24 RO
