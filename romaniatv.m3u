@@ -34,52 +34,52 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pro X RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Pro_X_%282017%29.svg/1280px-Logo_Pro_X_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Pro X RO
 https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="HBO RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",HBO RO
+#EXTINF:-1 tvg-id="" tvg-name="HBO RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",HBO RO
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",HBO 2 RO
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/ff/e8/e0/ffe8e06088efbad75512bea09b3f4e77.png" tvg-country="RO" tvg-url="" group-title="Filme",HBO 2 RO
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",HBO 3 RO
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 RO" tvg-language="Romanian" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfZmlsbV9oYm8zLnBuZyZoYXNoPWMx/NTQ3OWQyNWZjMDdmOTkxMmZiY2FjYTE1NmRlNzA3.png" tvg-country="RO" tvg-url="" group-title="Filme",HBO 3 RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Pro 2 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Pro 2 RO
+#EXTINF:-1 tvg-id="" tvg-name="Pro 2 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/1280px-Logo_Pro_2_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro 2 RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Pro Cinema RO
+#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_Pro_Cinema_%282017%29.svg/1280px-Logo_Pro_Cinema_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro Cinema RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Pro Gold RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Pro Gold RO
+#EXTINF:-1 tvg-id="" tvg-name="Pro Gold RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro Gold RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Happy Channel RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Happy Channel RO
+#EXTINF:-1 tvg-id="" tvg-name="Happy Channel RO" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2019/02/08/9SSgoKptZEYwkqb4SQ3f.png" tvg-country="RO" tvg-url="" group-title="Filme",Happy Channel RO
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AXN RO
+#EXTINF:-1 tvg-id="" tvg-name="AXN RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AXN RO
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN White RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AXN White RO
+#EXTINF:-1 tvg-id="" tvg-name="AXN White RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AXN White RO
 
-#EXTINF:-1 tvg-id="" tvg-name="AXN Black RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AXN Black RO
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/1280px-AXN_Black_logo_%282015%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AXN Black RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Film Cafe RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Film Cafe RO
+#EXTINF:-1 tvg-id="" tvg-name="Film Cafe RO" tvg-language="Romanian" tvg-logo="https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png" tvg-country="RO" tvg-url="" group-title="Filme",Film Cafe RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Cinemax RO
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Cinemax RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Cinemax 2 RO
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png" tvg-country="RO" tvg-url="" group-title="Filme",Cinemax 2 RO
 
-#EXTINF:-1 tvg-id="" tvg-name="TV 1000 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",TV 1000 RO
+#EXTINF:-1 tvg-id="" tvg-name="TV 1000 RO" tvg-language="Romanian" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062019/img_20190615_112944.png?brWx1rr7RSl8UPwUbLoPhxim6vcBnVda&itok=J45O-q4b" tvg-country="RO" tvg-url="" group-title="Filme",TV 1000 RO
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AMC RO
+#EXTINF:-1 tvg-id="" tvg-name="AMC RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1000px-AMC_logo_2016.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AMC RO
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",TNT RO
+#EXTINF:-1 tvg-id="" tvg-name="TNT RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",TNT RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Diva Universal RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Diva Universal RO
+#EXTINF:-1 tvg-id="" tvg-name="Diva Universal RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e6/Diva_Universal.png" tvg-country="RO" tvg-url="" group-title="Filme",Diva Universal RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Paramount Channel RO
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/d/d9/Paramount_channel_logo.png" tvg-country="RO" tvg-url="" group-title="Filme",Paramount Channel RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Comedy Central RO
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Comedy Central RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV RO
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",Antena 3 RO
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Media-145556348035729200.png" tvg-country="RO" tvg-url="" group-title="Stiri",Antena 3 RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Realitatea Plus RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",Realitatea Plus RO
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Plus RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/a/af/Realitatea_Plus_%282019-.n.v.%29.png/revision/latest?cb=20191129110000" tvg-country="RO" tvg-url="" group-title="Stiri",Realitatea Plus RO
 
-#EXTINF:-1 tvg-id="" tvg-name="Romania TV RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",Romania TV RO
+#EXTINF:-1 tvg-id="" tvg-name="Romania TV RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/96/76/59/9676597335777888d892c72781a2b7dc.png" tvg-country="RO" tvg-url="" group-title="Stiri",Romania TV RO
 
-#EXTINF:-1 tvg-id="" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",B1 RO
+#EXTINF:-1 tvg-id="" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/05/B1-TV-va-emite-in-format-HD.png" tvg-country="RO" tvg-url="" group-title="Stiri",B1 RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Digi 24 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Digi_24_HD_Logo.png" tvg-country="RO" tvg-url="" group-title="Stiri",Digi 24 RO
