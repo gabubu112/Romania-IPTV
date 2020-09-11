@@ -41,11 +41,11 @@ https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="HBO 3 RO" tvg-language="Romanian" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfZmlsbV9oYm8zLnBuZyZoYXNoPWMx/NTQ3OWQyNWZjMDdmOTkxMmZiY2FjYTE1NmRlNzA3.png" tvg-country="RO" tvg-url="" group-title="Filme",HBO 3 RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Pro 2 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/1280px-Logo_Pro_2_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro 2 RO
-
+https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Pro Cinema RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_Pro_Cinema_%282017%29.svg/1280px-Logo_Pro_Cinema_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro Cinema RO
-
+https://vid.hls.protv.ro/procineman/procinema.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Pro Gold RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro Gold RO
-
+https://vid.hls.protv.ro/progoldn/progold.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Happy Channel RO" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2019/02/08/9SSgoKptZEYwkqb4SQ3f.png" tvg-country="RO" tvg-url="" group-title="Filme",Happy Channel RO
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AXN RO
