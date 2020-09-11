@@ -34,4 +34,52 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pro X RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Pro_X_%282017%29.svg/1280px-Logo_Pro_X_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Pro X RO
 https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="HBO RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",HBO RO
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",HBO 2 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 3 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",HBO 3 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro 2 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Pro 2 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro Cinema RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Pro Cinema RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Pro Gold RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Pro Gold RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Happy Channel RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Happy Channel RO
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AXN RO
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN White RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AXN White RO
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AXN Black RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Film Cafe RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Film Cafe RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Cinemax RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Cinemax 2 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 1000 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",TV 1000 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",AMC RO
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",TNT RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Diva Universal RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Diva Universal RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Paramount Channel RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Comedy Central RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood TV RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",Antena 3 RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Plus RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",Realitatea Plus RO
+
+#EXTINF:-1 tvg-id="" tvg-name="Romania TV RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",Romania TV RO
+
+#EXTINF:-1 tvg-id="" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="" tvg-country="RO" tvg-url="" group-title="Stiri",B1 RO
+
 #EXTINF:-1 tvg-id="" tvg-name="Digi 24 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Digi_24_HD_Logo.png" tvg-country="RO" tvg-url="" group-title="Stiri",Digi 24 RO
