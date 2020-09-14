@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/440px-Logo_Pro_TV_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV RO
-https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV Chisinau MD" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_Pro_TV_Chișinău_%282017%29.svg/1200px-Logo_Pro_TV_Chișinău_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV Chisinau MD
 http://188.138.235.61:80/hls/protv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antena_1_hd.jpg/250px-Antena_1_hd.jpg" tvg-country="RO" tvg-url="" group-title="General",Antena 1 RO
