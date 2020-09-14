@@ -77,7 +77,7 @@ https://vid.hls.protv.ro/progoldn/progold.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3 RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Media-145556348035729200.png" tvg-country="RO" tvg-url="" group-title="Stiri",Antena 3 RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Realitatea Plus RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/a/af/Realitatea_Plus_%282019-.n.v.%29.png/revision/latest?cb=20191129110000" tvg-country="RO" tvg-url="" group-title="Stiri",Realitatea Plus RO
-
+http://78.109.108.62:6012/realitatea
 #EXTINF:-1 tvg-id="" tvg-name="Romania TV RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/96/76/59/9676597335777888d892c72781a2b7dc.png" tvg-country="RO" tvg-url="" group-title="Stiri",Romania TV RO
 
 #EXTINF:-1 tvg-id="" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/05/B1-TV-va-emite-in-format-HD.png" tvg-country="RO" tvg-url="" group-title="Stiri",B1 RO
