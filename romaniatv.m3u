@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/440px-Logo_Pro_TV_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV RO
 http://89.38.8.131:39532
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV Chisinau RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_Pro_TV_Chișinău_%282017%29.svg/1200px-Logo_Pro_TV_Chișinău_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV Chisinau RO
+http://188.138.235.61:80/hls/protv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antena_1_hd.jpg/250px-Antena_1_hd.jpg" tvg-country="RO" tvg-url="" group-title="General",Antena 1 RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/8e/60/d7/8e60d7e728f7d98795e900006a83c41a.png" tvg-country="RO" tvg-url="" group-title="General",Kanal D RO
@@ -74,6 +76,8 @@ https://vid.hls.protv.ro/progoldn/progold.m3u8?1
 
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV RO
 
+#EXTINF:-1 tvg-id="" tvg-name="Pro News RO" tvg-language="Romanian" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/dbojntr-12ec3344-1d9b-4e39-bb8d-e13d8e004d08.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTdlMjBlOGMtNDIwZS00NmFhLTg1NzgtYTBkMDI5ZjkxYWUxXC9kYm9qbnRyLTEyZWMzMzQ0LTFkOWItNGUzOS1iYjhkLWUxM2Q4ZTAwNGQwOC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.UEdw9Ea-O7Sn2FtUXn5KcaA5FaqG7pUzdRsE9H3wndw" tvg-country="RO" tvg-url="" group-title="Stiri",Pro News RO
+http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3 RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Media-145556348035729200.png" tvg-country="RO" tvg-url="" group-title="Stiri",Antena 3 RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Realitatea Plus RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/a/af/Realitatea_Plus_%282019-.n.v.%29.png/revision/latest?cb=20191129110000" tvg-country="RO" tvg-url="" group-title="Stiri",Realitatea Plus RO
