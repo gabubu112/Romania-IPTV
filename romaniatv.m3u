@@ -75,7 +75,7 @@ https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Comedy Central RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" tvg-country="RO" tvg-url="" group-title="Filme",Bollywood TV RO
-
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="Pro News RO" tvg-language="Romanian" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/dbojntr-12ec3344-1d9b-4e39-bb8d-e13d8e004d08.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTdlMjBlOGMtNDIwZS00NmFhLTg1NzgtYTBkMDI5ZjkxYWUxXC9kYm9qbnRyLTEyZWMzMzQ0LTFkOWItNGUzOS1iYjhkLWUxM2Q4ZTAwNGQwOC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.UEdw9Ea-O7Sn2FtUXn5KcaA5FaqG7pUzdRsE9H3wndw" tvg-country="RO" tvg-url="" group-title="Stiri",Pro News RO
 http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Antena 3 RO" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/31/Media-145556348035729200.png" tvg-country="RO" tvg-url="" group-title="Stiri",Antena 3 RO
