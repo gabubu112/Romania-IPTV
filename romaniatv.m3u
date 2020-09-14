@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/440px-Logo_Pro_TV_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8
+http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/111412
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV Chisinau" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Logo_Pro_TV_Chișinău_%282017%29.svg/1200px-Logo_Pro_TV_Chișinău_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV Chisinau
 http://188.138.235.61:80/hls/protv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antena_1_hd.jpg/250px-Antena_1_hd.jpg" tvg-country="RO" tvg-url="" group-title="General",Antena 1
-
+http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/111307
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/8e/60/d7/8e60d7e728f7d98795e900006a83c41a.png" tvg-country="RO" tvg-url="" group-title="General",Kanal D
 http://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Prima TV" tvg-language="Romanian" tvg-logo="https://www.primatv.ro/media/cache/gallery_big_image/uploads/media/campaign_gallery_image/0001/01/c43f4bb096905b897d333022565a252da3a93430.jpeg" tvg-country="RO" tvg-url="" group-title="General",Prima TV
@@ -13,9 +13,9 @@ http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR 2" tvg-language="Romanian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/TVR2_logo.png/revision/latest/scale-to-width-down/340?cb=20170417130805" tvg-country="RO" tvg-url="" group-title="General",TVR 2
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National TV" tvg-language="Romanian" tvg-logo="https://stvron.com/canale/512/national-tv.png" tvg-country="RO" tvg-url="" group-title="General",National TV
-
+http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/111400
 #EXTINF:-1 tvg-id="" tvg-name="N24 Plus" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Național_24_Plus.png" tvg-country="RO" tvg-url="" group-title="General",N24 Plus
-
+http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/111398
 #EXTINF:-1 tvg-id="" tvg-name="Antena Stars" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" tvg-country="RO" tvg-url="" group-title="General",Antena Stars
 
 #EXTINF:-1 tvg-id="" tvg-name="Telekom Sport 1" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/1280px-Logo_Telekom_Sport_1_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Sport",Telekom Sport 1
@@ -49,7 +49,7 @@ https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Pro Gold" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",Pro Gold
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="Happy Channel" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2019/02/08/9SSgoKptZEYwkqb4SQ3f.png" tvg-country="RO" tvg-url="" group-title="Filme",Happy Channel
-
+http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/111367
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AXN
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1280px-AXN_White_logo_%282015%29.svg.png" tvg-country="RO" tvg-url="" group-title="Filme",AXN White
