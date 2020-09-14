@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/440px-Logo_Pro_TV_%282017%29.svg.png" tvg-country="RO" tvg-url="" group-title="General",Pro TV RO
-https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
+http://89.38.8.131:39532
 #EXTINF:-1 tvg-id="" tvg-name="Antena 1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antena_1_hd.jpg/250px-Antena_1_hd.jpg" tvg-country="RO" tvg-url="" group-title="General",Antena 1 RO
 
 #EXTINF:-1 tvg-id="" tvg-name="Kanal D RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/8e/60/d7/8e60d7e728f7d98795e900006a83c41a.png" tvg-country="RO" tvg-url="" group-title="General",Kanal D RO
