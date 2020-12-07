@@ -1,4 +1,8 @@
-# Romania-IPTV
+# Romania-IPTV (discontinued)
+First of all i want to say sorry, because i can't. I am learning for exams and I can't make updates in this m3u playlist.
+The file will be here to download it if you want.
+
+
 This is my first project and in this is project is a m3u file which includes all Romania channels.
 This is the first version. But i promise to have all channel.
 If you want to colaborate with me, you are free to join.
